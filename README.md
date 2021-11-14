@@ -48,3 +48,7 @@ There are this things on GitHub called "template repositories" which you can use
 - Uppercase meta files (e.g. `README.md`)
 - Don't add health files (like `CODE_OF_CONDUCTS` or `SUPPORT`), those are organization-wide files stored [here](https://github.com/catppuccin/.github).
 - Emojis are _the way_, feel free to use them as much as you want.
+
+<p align="center">
+	Enjoy!
+</p>
