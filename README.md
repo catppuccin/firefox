@@ -33,6 +33,14 @@
     - [Lavender](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-lavender/)
 2. Click on `Install Theme`
 
+## Development
+
+##### Packaging:
+
+```bash
+make package # dest=/some/dir
+```
+
 ## 💝 Thanks to
 
 -   [Celeste](https://github.com/CelestialN3ko)
