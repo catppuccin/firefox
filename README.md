@@ -18,21 +18,21 @@
 ## Usage
 
 1. Choose one of the themes from the list below:
-	- [Rosewater](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-rosewater/)
-	- [Flamingo](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-flamingo/)
-	- [Mauve](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-mauve/)
-	- [Pink](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-pink/)
-	- [Maroon](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-maroon/)
-	- [Red](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-red/)
-	- [Peach](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-peach/)
-	- [Yellow](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-yellow/)
-	- [Green](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-green/)
-	- [Teal](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-teal/)
-	- [Blue](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-blue/)
-	- [Sky](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-sky/)
-	- [Lavender](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-lavender/)
+    - [Rosewater](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-rosewater/)
+    - [Flamingo](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-flamingo/)
+    - [Mauve](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-mauve/)
+    - [Pink](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-pink/)
+    - [Maroon](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-maroon/)
+    - [Red](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-red/)
+    - [Peach](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-peach/)
+    - [Yellow](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-yellow/)
+    - [Green](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-green/)
+    - [Teal](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-teal/)
+    - [Blue](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-blue/)
+    - [Sky](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-sky/)
+    - [Lavender](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-lavender/)
 2. Click on `Install Theme`
 
 ## 💝 Thanks to
 
-- [Celeste](https://github.com/CelestialN3ko)
+-   [Celeste](https://github.com/CelestialN3ko)
