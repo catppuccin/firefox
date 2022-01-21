@@ -31,7 +31,7 @@
 	- [Blue](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-blue/)
 	- [Sky](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-sky/)
 	- [Lavender](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-lavender/)
-2. Click `Install Theme`
+2. Click on `Install Theme`
 
 ## 💝 Thanks to
 
