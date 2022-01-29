@@ -18,6 +18,7 @@
 ## Usage
 
 1. Choose one of the themes from the list below:
+
     - [Rosewater](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-rosewater/)
     - [Flamingo](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-flamingo/)
     - [Mauve](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-mauve/)
@@ -31,6 +32,11 @@
     - [Blue](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-blue/)
     - [Sky](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-sky/)
     - [Lavender](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-lavender/)
+
+<p align="center">
+  <img src="assets/accents.png"/>
+</p>
+
 2. Click on `Install Theme`
 
 ## Development
