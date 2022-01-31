@@ -13,5 +13,5 @@ package:
 	@echo -e "$(LOG_INFO) Preparing... 🐈"
 	@mkdir -p $(dest)
 	@echo -e "$(LOG_INFO) Packaging all dark Catppuccin accents 📦..."
-	@for file in $(ROOT_DIR)/src/* ; do parsed="$${file##*/}" ; printf "   • $(LOG_WARNING) Packaging $${parsed}" ; zip -r -q $(dest)/$${parsed}.zip $$file && printf "\t✅\n" || printf "\t❌\n" ; done
+	@for file in $(ROOT_DIR)/src/* ; do parsed="$${file##*/}" ; printf "   • $(LOG_WARNING) Packaging $${parsed}" ; zip -r -j -q $(dest)/$${parsed}.zip $$file && printf "\t✅\n" || printf "\t❌\n" ; done
 	@echo -e "$(LOG_SUCCESS) Packages ready at $(dest)! 🥳"
