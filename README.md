@@ -49,7 +49,7 @@ make package # dest=/some/dir
 
 ## 💝 Thanks to
 
--   [Celeste](https://github.com/CelestialN3ko)
+-   [Lexi](https://github.com/ShyyLexi)
 
 &nbsp;
 

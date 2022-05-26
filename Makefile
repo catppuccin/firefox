@@ -5,13 +5,17 @@ LOG_SUCCESS=$(shell date +"%H:%M:%S") \e[0;32mSUCCESS\e[0m
 
 
 ROOT_DIR=$(shell git rev-parse --show-toplevel)
-dest=$(ROOT_DIR)/pkgs
+dest_mocha=$(ROOT_DIR)/pkgs/mocha
+dest_latte=$(ROOT_DIR)/pkgs/latte
 export ROOT_DIR
 
 #? generate compressed packages for every accent
 package:
 	@echo -e "$(LOG_INFO) Preparing... 🐈"
-	@mkdir -p $(dest)
-	@echo -e "$(LOG_INFO) Packaging all dark Catppuccin accents 📦..."
-	@for file in $(ROOT_DIR)/src/* ; do parsed="$${file##*/}" ; printf "   • $(LOG_WARNING) Packaging $${parsed}" ; zip -r -j -q $(dest)/$${parsed}.zip $$file && printf "\t✅\n" || printf "\t❌\n" ; done
+	@mkdir -p $(dest_mocha)
+	@mkdir -p $(dest_latte)
+	@echo -e "$(LOG_INFO) Packaging all mocha Catppuccin accents 📦..."
+	@for file in $(ROOT_DIR)/src/mocha/* ; do parsed="$${file##*/}" ; printf "   • $(LOG_WARNING) Packaging $${parsed}" ; zip -r -j -q $(dest_mocha)$${parsed}.zip $$file && printf "\t✅\n" || printf "\t❌\n" ; done
+	@echo -e "$(LOG_INFO) Packaging all latte Catppuccin accents 📦..."
+	@for file in $(ROOT_DIR)/src/latte/* ; do parsed="$${file##*/}" ; printf "   • $(LOG_WARNING) Packaging $${parsed}" ; zip -r -j -q $(dest_latte)$${parsed}.zip $$file && printf "\t✅\n" || printf "\t❌\n" ; done
 	@echo -e "$(LOG_SUCCESS) Packages ready at $(dest)! 🥳"

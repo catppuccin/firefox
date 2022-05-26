@@ -1,0 +1,12 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/lexi/catppuccin/firefox'
+echo -e "16:37:11 \e[0;34mINFO\e[0m Preparing... 🐈"
+mkdir -p /home/lexi/catppuccin/firefox/pkgs/mocha
+mkdir -p /home/lexi/catppuccin/firefox/pkgs/latte
+echo -e "16:37:11 \e[0;34mINFO\e[0m Packaging all mocha Catppuccin accents 📦..."
+for file in /home/lexi/catppuccin/firefox/src/mocha/* ; do parsed="${file##*/}" ; printf "   • 16:37:11 \e[0;33mWARNING\e[0m Packaging ${parsed}" ; zip -r -j -q /home/lexi/catppuccin/firefox/pkgs/mocha${parsed}.zip $file && printf "\t✅\n" || printf "\t❌\n" ; done
+echo -e "16:37:11 \e[0;34mINFO\e[0m Packaging all latte Catppuccin accents 📦..."
+for file in /home/lexi/catppuccin/firefox/src/latte/* ; do parsed="${file##*/}" ; printf "   • 16:37:11 \e[0;33mWARNING\e[0m Packaging ${parsed}" ; zip -r -j -q /home/lexi/catppuccin/firefox/pkgs/latte${parsed}.zip $file && printf "\t✅\n" || printf "\t❌\n" ; done
+echo -e "16:37:11 \e[0;32mSUCCESS\e[0m Packages ready at ! 🥳"
+make: Leaving directory '/home/lexi/catppuccin/firefox'
+ 
