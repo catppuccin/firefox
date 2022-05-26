@@ -19,19 +19,19 @@
 
 1. Choose one of the themes from the list below:
 
-    - <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#f5e0dc" /></svg> [Rosewater](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-rosewater/)
-    - <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#f2cdcd" /></svg> [Flamingo](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-flamingo/)
-    - <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#f5c2e7" /></svg> [Pink](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-pink/)
-    - <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#cba6f7" /></svg> [Mauve](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-mauve/)
-    - <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#f38ba8" /></svg> [Red](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-red/)
-    - <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#eba0ac" /></svg> [Maroon](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-maroon/)
-    - <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#fab387" /></svg> [Peach](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-peach/)
-    - <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#f9e2af" /></svg> [Yellow](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-yellow/)
-    - <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#a6e3a1" /></svg> [Green](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-green/)
-    - <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#94e2d5" /></svg> [Teal](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-teal/)
-    - <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#89dceb" /></svg> [Sky](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-sky/)
-    - <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#87b0f9" /></svg> [Blue](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-blue/)
-    - <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#b4befe" /></svg> [Lavender](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-lavender/)
+    - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_rosewater.png" height="12" width="12"/> [Rosewater](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-rosewater/)
+    - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_flamingo.png" height="12" width="12"/> [Flamingo](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-flamingo/)
+    - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_pink.png" height="12" width="12"/> [Pink](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-pink/)
+    - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_mauve.png" height="12" width="12"/> [Mauve](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-mauve/)
+    - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_red.png" height="12" width="12"/> [Red](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-red/)
+    - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_maroon.png" height="12" width="12"/> [Maroon](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-maroon/)
+    - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_peach.png" height="12" width="12"/> [Peach](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-peach/)
+    - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_yellow.png" height="12" width="12"/> [Yellow](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-yellow/)
+    - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_green.png" height="12" width="12"/> [Green](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-green/)
+    - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_teal.png" height="12" width="12"/> [Teal](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-teal/)
+    - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_sky.png" height="12" width="12"/> [Sky](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-sky/)
+    - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_blue.png" height="12" width="12"/> [Blue](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-blue/)
+    - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_lavender.png" height="12" width="12"/> [Lavender](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-dark-lavender/)
 
 2. Click on `Install Theme`
 
