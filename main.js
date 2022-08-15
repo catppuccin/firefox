@@ -1,5 +1,5 @@
 import JsonUrl from "json-url";
-import fs from "fs";
+import {variants} from "@catppuccin/palette";
 
 const accents = [
     "rosewater",
@@ -37,15 +37,12 @@ const capitalize = (s) => {
 }
 
 (async () => {
-    const lib = fs.readFileSync("./colors.json", "utf8");
-    const colourLib = JSON.parse(lib);
-
-    for (const flavour of Object.keys(colourLib)) {
-        console.log(`\n\nCatppuccin ${capitalize(flavour)}`)
+    for (const flavour of Object.keys(variants)) {
+        console.log(`\nCatppuccin ${capitalize(flavour)}`)
         const lib = {};
 
-        Object.keys(colourLib[flavour]).forEach((colour) => {
-            const hex = colourLib[flavour][colour]["hex"];
+        Object.keys(variants[flavour]).forEach((colour) => {
+            const hex = variants[flavour][colour]["hex"];
             const { r, g, b } = hexToRgb(hex);
             lib[colour] = {
                 r,
@@ -104,7 +101,8 @@ const capitalize = (s) => {
 
             const url = await jsonCodec.compress(theme);
             const link = `https://color.firefox.com/?theme=${url}`
-            console.log(` - [${capitalize(accent)}](${link})`);
+            const img = `<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/${flavour}_${accent}.png" height="12" width="12"/>`
+            console.log(` - ${img} [${capitalize(accent)}](${link})`);
         }
     }
 })();
