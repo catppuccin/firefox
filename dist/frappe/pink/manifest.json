@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "version": "2.0",
+  "name": "Catppuccin Frappe - Pink",
+  "theme": {
+    "images": {},
+    "properties": {
+      "color_scheme": "dark"
+    },
+    "colors": {
+      "toolbar": "#303446ff",
+      "toolbar_text": "#c6d0f5ff",
+      "frame": "#232634ff",
+      "tab_background_text": "#c6d0f5ff",
+      "toolbar_field": "#292c3cff",
+      "toolbar_field_text": "#c6d0f5ff",
+      "tab_line": "#f4b8e4ff",
+      "popup": "#303446ff",
+      "popup_text": "#c6d0f5ff",
+      "button_background_active": "#737994ff",
+      "frame_inactive": "#232634ff",
+      "icons_attention": "#f4b8e4ff",
+      "icons": "#f4b8e4ff",
+      "ntp_background": "#232634ff",
+      "ntp_text": "#c6d0f5ff",
+      "popup_border": "#f4b8e4ff",
+      "popup_highlight_text": "#c6d0f5ff",
+      "popup_highlight": "#737994ff",
+      "sidebar_border": "#f4b8e4ff",
+      "sidebar_highlight_text": "#c6d0f5ff",
+      "sidebar_highlight": "#f4b8e4ff",
+      "sidebar_text": "#c6d0f5ff",
+      "sidebar": "#303446ff",
+      "tab_background_separator": "#f4b8e4ff",
+      "tab_loading": "#f4b8e4ff",
+      "tab_selected": "#303446ff",
+      "tab_text": "#c6d0f5ff",
+      "toolbar_bottom_separator": "#303446ff",
+      "toolbar_field_border_focus": "#f4b8e4ff",
+      "toolbar_field_border": "#303446ff",
+      "toolbar_field_focus": "#303446ff",
+      "toolbar_field_highlight_text": "#303446ff",
+      "toolbar_field_highlight": "#f4b8e4ff",
+      "toolbar_field_separator": "#f4b8e4ff",
+      "toolbar_vertical_separator": "#f4b8e4ff"
+    }
+  }
+}

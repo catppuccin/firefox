@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "version": "2.0",
+  "name": "Catppuccin Latte - Green",
+  "theme": {
+    "images": {},
+    "properties": {
+      "color_scheme": "light"
+    },
+    "colors": {
+      "toolbar": "#eff1f5ff",
+      "toolbar_text": "#4c4f69ff",
+      "frame": "#dce0e8ff",
+      "tab_background_text": "#4c4f69ff",
+      "toolbar_field": "#e6e9efff",
+      "toolbar_field_text": "#4c4f69ff",
+      "tab_line": "#40a02bff",
+      "popup": "#eff1f5ff",
+      "popup_text": "#4c4f69ff",
+      "button_background_active": "#9ca0b0ff",
+      "frame_inactive": "#dce0e8ff",
+      "icons_attention": "#40a02bff",
+      "icons": "#40a02bff",
+      "ntp_background": "#dce0e8ff",
+      "ntp_text": "#4c4f69ff",
+      "popup_border": "#40a02bff",
+      "popup_highlight_text": "#4c4f69ff",
+      "popup_highlight": "#9ca0b0ff",
+      "sidebar_border": "#40a02bff",
+      "sidebar_highlight_text": "#4c4f69ff",
+      "sidebar_highlight": "#40a02bff",
+      "sidebar_text": "#4c4f69ff",
+      "sidebar": "#eff1f5ff",
+      "tab_background_separator": "#40a02bff",
+      "tab_loading": "#40a02bff",
+      "tab_selected": "#eff1f5ff",
+      "tab_text": "#4c4f69ff",
+      "toolbar_bottom_separator": "#eff1f5ff",
+      "toolbar_field_border_focus": "#40a02bff",
+      "toolbar_field_border": "#eff1f5ff",
+      "toolbar_field_focus": "#eff1f5ff",
+      "toolbar_field_highlight_text": "#eff1f5ff",
+      "toolbar_field_highlight": "#40a02bff",
+      "toolbar_field_separator": "#40a02bff",
+      "toolbar_vertical_separator": "#40a02bff"
+    }
+  }
+}
