@@ -1,5 +1,5 @@
 import JsonUrl from "json-url";
-import {variants} from "@catppuccin/palette";
+import { variants } from "@catppuccin/palette";
 
 const accents = [
     "rosewater",
@@ -24,21 +24,21 @@ const hexToRgb = (hex) => {
     const result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
     return result
         ? {
-            r: parseInt(result[1], 16),
-            g: parseInt(result[2], 16),
-            b: parseInt(result[3], 16),
-        }
+              r: parseInt(result[1], 16),
+              g: parseInt(result[2], 16),
+              b: parseInt(result[3], 16),
+          }
         : null;
 };
 
 const capitalize = (s) => {
     if (typeof s !== "string") return "";
     return s.charAt(0).toUpperCase() + s.slice(1);
-}
+};
 
 (async () => {
     for (const flavour of Object.keys(variants)) {
-        console.log(`\nCatppuccin ${capitalize(flavour)}`)
+        console.log(`<details>\n<summary>${capitalize(flavour)}</summary>\n`);
         const lib = {};
 
         Object.keys(variants[flavour]).forEach((colour) => {
@@ -52,7 +52,7 @@ const capitalize = (s) => {
         });
 
         for (const accent of accents) {
-            lib.accent = lib[accent]
+            lib.accent = lib[accent];
 
             const theme = {
                 colors: {
@@ -100,9 +100,12 @@ const capitalize = (s) => {
             };
 
             const url = await jsonCodec.compress(theme);
-            const link = `https://color.firefox.com/?theme=${url}`
-            const img = `<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/${flavour}_${accent}.png" height="12" width="12"/>`
-            console.log(` - ${img} [${capitalize(accent)}](${link})`);
+            const link = `<a href="https://color.firefox.com/?theme=${url}">${capitalize(
+                accent
+            )}</a>`;
+            const img = `<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/${flavour}_${accent}.png" height="12" width="12"/>`;
+            console.log(` - ${img} ${link}`);
         }
+        console.log(`</details>`);
     }
 })();

@@ -1,13 +1,16 @@
 {
-  "name": "catppuccin-firefox",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "@babel/runtime": "^7.18.9",
-    "@catppuccin/palette": "^0.1.5",
-    "json-url": "^3.0.0",
-    "jszip": "^3.10.1"
-  },
-  "type": "module"
+    "name": "catppuccin-firefox",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "@babel/runtime": "^7.18.9",
+        "@catppuccin/palette": "^0.1.5",
+        "json-url": "^3.0.0",
+        "jszip": "^3.10.1"
+    },
+    "scripts": {
+        "generate": "node ./main.js"
+    },
+    "type": "module"
 }
