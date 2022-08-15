@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "version": "2.0",
+  "name": "Catppuccin Mocha - Rosewater",
+  "theme": {
+    "images": {},
+    "properties": {
+      "color_scheme": "dark"
+    },
+    "colors": {
+      "toolbar": "#1e1e2eff",
+      "toolbar_text": "#cdd6f4ff",
+      "frame": "#11111bff",
+      "tab_background_text": "#cdd6f4ff",
+      "toolbar_field": "#181825ff",
+      "toolbar_field_text": "#cdd6f4ff",
+      "tab_line": "#f5e0dcff",
+      "popup": "#1e1e2eff",
+      "popup_text": "#cdd6f4ff",
+      "button_background_active": "#6c7086ff",
+      "frame_inactive": "#11111bff",
+      "icons_attention": "#f5e0dcff",
+      "icons": "#f5e0dcff",
+      "ntp_background": "#11111bff",
+      "ntp_text": "#cdd6f4ff",
+      "popup_border": "#f5e0dcff",
+      "popup_highlight_text": "#cdd6f4ff",
+      "popup_highlight": "#6c7086ff",
+      "sidebar_border": "#f5e0dcff",
+      "sidebar_highlight_text": "#cdd6f4ff",
+      "sidebar_highlight": "#f5e0dcff",
+      "sidebar_text": "#cdd6f4ff",
+      "sidebar": "#1e1e2eff",
+      "tab_background_separator": "#f5e0dcff",
+      "tab_loading": "#f5e0dcff",
+      "tab_selected": "#1e1e2eff",
+      "tab_text": "#cdd6f4ff",
+      "toolbar_bottom_separator": "#1e1e2eff",
+      "toolbar_field_border_focus": "#f5e0dcff",
+      "toolbar_field_border": "#1e1e2eff",
+      "toolbar_field_focus": "#1e1e2eff",
+      "toolbar_field_highlight_text": "#1e1e2eff",
+      "toolbar_field_highlight": "#f5e0dcff",
+      "toolbar_field_separator": "#f5e0dcff",
+      "toolbar_vertical_separator": "#f5e0dcff"
+    }
+  }
+}

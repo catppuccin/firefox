@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "version": "2.0",
+  "name": "Catppuccin Frappe - Sapphire",
+  "theme": {
+    "images": {},
+    "properties": {
+      "color_scheme": "dark"
+    },
+    "colors": {
+      "toolbar": "#303446ff",
+      "toolbar_text": "#c6d0f5ff",
+      "frame": "#232634ff",
+      "tab_background_text": "#c6d0f5ff",
+      "toolbar_field": "#292c3cff",
+      "toolbar_field_text": "#c6d0f5ff",
+      "tab_line": "#85c1dcff",
+      "popup": "#303446ff",
+      "popup_text": "#c6d0f5ff",
+      "button_background_active": "#737994ff",
+      "frame_inactive": "#232634ff",
+      "icons_attention": "#85c1dcff",
+      "icons": "#85c1dcff",
+      "ntp_background": "#232634ff",
+      "ntp_text": "#c6d0f5ff",
+      "popup_border": "#85c1dcff",
+      "popup_highlight_text": "#c6d0f5ff",
+      "popup_highlight": "#737994ff",
+      "sidebar_border": "#85c1dcff",
+      "sidebar_highlight_text": "#c6d0f5ff",
+      "sidebar_highlight": "#85c1dcff",
+      "sidebar_text": "#c6d0f5ff",
+      "sidebar": "#303446ff",
+      "tab_background_separator": "#85c1dcff",
+      "tab_loading": "#85c1dcff",
+      "tab_selected": "#303446ff",
+      "tab_text": "#c6d0f5ff",
+      "toolbar_bottom_separator": "#303446ff",
+      "toolbar_field_border_focus": "#85c1dcff",
+      "toolbar_field_border": "#303446ff",
+      "toolbar_field_focus": "#303446ff",
+      "toolbar_field_highlight_text": "#303446ff",
+      "toolbar_field_highlight": "#85c1dcff",
+      "toolbar_field_separator": "#85c1dcff",
+      "toolbar_vertical_separator": "#85c1dcff"
+    }
+  }
+}

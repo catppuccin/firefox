@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "version": "2.0",
+  "name": "Catppuccin Macchiato - Red",
+  "theme": {
+    "images": {},
+    "properties": {
+      "color_scheme": "dark"
+    },
+    "colors": {
+      "toolbar": "#24273aff",
+      "toolbar_text": "#cad3f5ff",
+      "frame": "#181926ff",
+      "tab_background_text": "#cad3f5ff",
+      "toolbar_field": "#1e2030ff",
+      "toolbar_field_text": "#cad3f5ff",
+      "tab_line": "#ed8796ff",
+      "popup": "#24273aff",
+      "popup_text": "#cad3f5ff",
+      "button_background_active": "#6e738dff",
+      "frame_inactive": "#181926ff",
+      "icons_attention": "#ed8796ff",
+      "icons": "#ed8796ff",
+      "ntp_background": "#181926ff",
+      "ntp_text": "#cad3f5ff",
+      "popup_border": "#ed8796ff",
+      "popup_highlight_text": "#cad3f5ff",
+      "popup_highlight": "#6e738dff",
+      "sidebar_border": "#ed8796ff",
+      "sidebar_highlight_text": "#cad3f5ff",
+      "sidebar_highlight": "#ed8796ff",
+      "sidebar_text": "#cad3f5ff",
+      "sidebar": "#24273aff",
+      "tab_background_separator": "#ed8796ff",
+      "tab_loading": "#ed8796ff",
+      "tab_selected": "#24273aff",
+      "tab_text": "#cad3f5ff",
+      "toolbar_bottom_separator": "#24273aff",
+      "toolbar_field_border_focus": "#ed8796ff",
+      "toolbar_field_border": "#24273aff",
+      "toolbar_field_focus": "#24273aff",
+      "toolbar_field_highlight_text": "#24273aff",
+      "toolbar_field_highlight": "#ed8796ff",
+      "toolbar_field_separator": "#ed8796ff",
+      "toolbar_vertical_separator": "#ed8796ff"
+    }
+  }
+}
