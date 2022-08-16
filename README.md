@@ -16,7 +16,7 @@
 </p>
 
 ## Usage
-# 🏠 Basic Install (Recommended)
+### 🏠 Basic Install (Recommended)
 
 1. Click on a Link below to install:
 
@@ -95,7 +95,7 @@
 
 2. Enjoy!
 
-# 🔧 Custom Install
+### 🔧 Custom Install
 
 1. Install [Firefox Color](https://addons.mozilla.org/en-GB/firefox/addon/firefox-color/)
 2. Click on a Link below:
