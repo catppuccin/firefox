@@ -17,6 +17,86 @@
 
 ## Usage
 <details>
+<details>
+<summary>🏠 Basic Install (Recommended)</summary>
+
+1. Click on a Link below to install:
+
+<details>
+<summary>🌻 Latte</summary>
+
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_rosewater.png" height="12" width="12"/> <a href="https://null">Rosewater</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_flamingo.png" height="12" width="12"/> <a href="https://null">Flamingo</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_pink.png" height="12" width="12"/> <a href="https://null">Pink</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_mauve.png" height="12" width="12"/> <a href="https://null">Mauve</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_red.png" height="12" width="12"/> <a href="https://null">Red</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_maroon.png" height="12" width="12"/> <a href="https://null">Maroon</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_peach.png" height="12" width="12"/> <a href="https://null">Peach</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_yellow.png" height="12" width="12"/> <a href="https://null">Yellow</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_green.png" height="12" width="12"/> <a href="https://null">Green</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_teal.png" height="12" width="12"/> <a href="https://null">Teal</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_sky.png" height="12" width="12"/> <a href="https://null">Sky</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_sapphire.png" height="12" width="12"/> <a href="https://null">Sapphire</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_blue.png" height="12" width="12"/> <a href="https://null">Blue</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_lavender.png" height="12" width="12"/> <a href="https://null">Lavender</a>
+</details>
+<details>
+<summary>🪴 Frappe</summary>
+
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_rosewater.png" height="12" width="12"/> <a href="https://null">Rosewater</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_flamingo.png" height="12" width="12"/> <a href="https://null">Flamingo</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_pink.png" height="12" width="12"/> <a href="https://null">Pink</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_mauve.png" height="12" width="12"/> <a href="https://null">Mauve</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_red.png" height="12" width="12"/> <a href="https://null">Red</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_maroon.png" height="12" width="12"/> <a href="https://null">Maroon</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_peach.png" height="12" width="12"/> <a href="https://null">Peach</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_yellow.png" height="12" width="12"/> <a href="https://null">Yellow</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_green.png" height="12" width="12"/> <a href="https://null">Green</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_teal.png" height="12" width="12"/> <a href="https://null">Teal</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_sky.png" height="12" width="12"/> <a href="https://null">Sky</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_sapphire.png" height="12" width="12"/> <a href="https://null">Sapphire</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_blue.png" height="12" width="12"/> <a href="https://null">Blue</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_lavender.png" height="12" width="12"/> <a href="https://null">Lavender</a>
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_rosewater.png" height="12" width="12"/> <a href="https://null">Rosewater</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_flamingo.png" height="12" width="12"/> <a href="https://null">Flamingo</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_pink.png" height="12" width="12"/> <a href="https://null">Pink</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_mauve.png" height="12" width="12"/> <a href="https://null">Mauve</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_red.png" height="12" width="12"/> <a href="https://null">Red</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_maroon.png" height="12" width="12"/> <a href="https://null">Maroon</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_peach.png" height="12" width="12"/> <a href="https://null">Peach</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_yellow.png" height="12" width="12"/> <a href="https://null">Yellow</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_green.png" height="12" width="12"/> <a href="https://null">Green</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_teal.png" height="12" width="12"/> <a href="https://null">Teal</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_sky.png" height="12" width="12"/> <a href="https://null">Sky</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_sapphire.png" height="12" width="12"/> <a href="https://null">Sapphire</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_blue.png" height="12" width="12"/> <a href="https://null">Blue</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_lavender.png" height="12" width="12"/> <a href="https://null">Lavender</a>
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_rosewater.png" height="12" width="12"/> <a href="https://null">Rosewater</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_flamingo.png" height="12" width="12"/> <a href="https://null">Flamingo</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_pink.png" height="12" width="12"/> <a href="https://null">Pink</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_mauve.png" height="12" width="12"/> <a href="https://null">Mauve</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_red.png" height="12" width="12"/> <a href="https://null">Red</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_maroon.png" height="12" width="12"/> <a href="https://null">Maroon</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_peach.png" height="12" width="12"/> <a href="https://null">Peach</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_yellow.png" height="12" width="12"/> <a href="https://null">Yellow</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_green.png" height="12" width="12"/> <a href="https://null">Green</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_teal.png" height="12" width="12"/> <a href="https://null">Teal</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_sky.png" height="12" width="12"/> <a href="https://null">Sky</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_sapphire.png" height="12" width="12"/> <a href="https://null">Sapphire</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_blue.png" height="12" width="12"/> <a href="https://null">Blue</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_lavender.png" height="12" width="12"/> <a href="https://null">Lavender</a>
+</details>
+
+2. Enjoy!
+
 <summary>🔧 Custom Install</summary>
 
 1. Install [Firefox Color](https://addons.mozilla.org/en-GB/firefox/addon/firefox-color/)
@@ -97,85 +177,6 @@
 
 3. Apply the theme with Firefox Color
 </details>
-<details>
-<summary>🏠 Basic Install (Recommended)</summary>
-
-1. Click on a Link below to install:
-
-<details>
-<summary>🌻 Latte</summary>
-
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_rosewater.png" height="12" width="12"/> <a href="https://null">Rosewater</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_flamingo.png" height="12" width="12"/> <a href="https://null">Flamingo</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_pink.png" height="12" width="12"/> <a href="https://null">Pink</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_mauve.png" height="12" width="12"/> <a href="https://null">Mauve</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_red.png" height="12" width="12"/> <a href="https://null">Red</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_maroon.png" height="12" width="12"/> <a href="https://null">Maroon</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_peach.png" height="12" width="12"/> <a href="https://null">Peach</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_yellow.png" height="12" width="12"/> <a href="https://null">Yellow</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_green.png" height="12" width="12"/> <a href="https://null">Green</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_teal.png" height="12" width="12"/> <a href="https://null">Teal</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_sky.png" height="12" width="12"/> <a href="https://null">Sky</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_sapphire.png" height="12" width="12"/> <a href="https://null">Sapphire</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_blue.png" height="12" width="12"/> <a href="https://null">Blue</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_lavender.png" height="12" width="12"/> <a href="https://null">Lavender</a>
-</details>
-<details>
-<summary>🪴 Frappe</summary>
-
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_rosewater.png" height="12" width="12"/> <a href="https://null">Rosewater</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_flamingo.png" height="12" width="12"/> <a href="https://null">Flamingo</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_pink.png" height="12" width="12"/> <a href="https://null">Pink</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_mauve.png" height="12" width="12"/> <a href="https://null">Mauve</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_red.png" height="12" width="12"/> <a href="https://null">Red</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_maroon.png" height="12" width="12"/> <a href="https://null">Maroon</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_peach.png" height="12" width="12"/> <a href="https://null">Peach</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_yellow.png" height="12" width="12"/> <a href="https://null">Yellow</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_green.png" height="12" width="12"/> <a href="https://null">Green</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_teal.png" height="12" width="12"/> <a href="https://null">Teal</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_sky.png" height="12" width="12"/> <a href="https://null">Sky</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_sapphire.png" height="12" width="12"/> <a href="https://null">Sapphire</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_blue.png" height="12" width="12"/> <a href="https://null">Blue</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_lavender.png" height="12" width="12"/> <a href="https://null">Lavender</a>
-</details>
-<details>
-<summary>🌺 Macchiato</summary>
-
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_rosewater.png" height="12" width="12"/> <a href="https://null">Rosewater</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_flamingo.png" height="12" width="12"/> <a href="https://null">Flamingo</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_pink.png" height="12" width="12"/> <a href="https://null">Pink</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_mauve.png" height="12" width="12"/> <a href="https://null">Mauve</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_red.png" height="12" width="12"/> <a href="https://null">Red</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_maroon.png" height="12" width="12"/> <a href="https://null">Maroon</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_peach.png" height="12" width="12"/> <a href="https://null">Peach</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_yellow.png" height="12" width="12"/> <a href="https://null">Yellow</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_green.png" height="12" width="12"/> <a href="https://null">Green</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_teal.png" height="12" width="12"/> <a href="https://null">Teal</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_sky.png" height="12" width="12"/> <a href="https://null">Sky</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_sapphire.png" height="12" width="12"/> <a href="https://null">Sapphire</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_blue.png" height="12" width="12"/> <a href="https://null">Blue</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_lavender.png" height="12" width="12"/> <a href="https://null">Lavender</a>
-</details>
-<details>
-<summary>🌿 Mocha</summary>
-
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_rosewater.png" height="12" width="12"/> <a href="https://null">Rosewater</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_flamingo.png" height="12" width="12"/> <a href="https://null">Flamingo</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_pink.png" height="12" width="12"/> <a href="https://null">Pink</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_mauve.png" height="12" width="12"/> <a href="https://null">Mauve</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_red.png" height="12" width="12"/> <a href="https://null">Red</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_maroon.png" height="12" width="12"/> <a href="https://null">Maroon</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_peach.png" height="12" width="12"/> <a href="https://null">Peach</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_yellow.png" height="12" width="12"/> <a href="https://null">Yellow</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_green.png" height="12" width="12"/> <a href="https://null">Green</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_teal.png" height="12" width="12"/> <a href="https://null">Teal</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_sky.png" height="12" width="12"/> <a href="https://null">Sky</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_sapphire.png" height="12" width="12"/> <a href="https://null">Sapphire</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_blue.png" height="12" width="12"/> <a href="https://null">Blue</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_lavender.png" height="12" width="12"/> <a href="https://null">Lavender</a>
-</details>
-
-2. Enjoy!
 
 </details>
 
