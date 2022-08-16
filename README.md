@@ -100,6 +100,9 @@
 <details>
 <summary>🏠 Basic Install (Recommended)</summary>
 
+1. Click on a Link below to install:
+2. Enjoy!
+
 <details>
 <summary>🌻 Latte</summary>
 
