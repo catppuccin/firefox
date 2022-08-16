@@ -101,7 +101,6 @@
 <summary>🏠 Basic Install (Recommended)</summary>
 
 1. Click on a Link below to install:
-2. Enjoy!
 
 <details>
 <summary>🌻 Latte</summary>
@@ -175,6 +174,9 @@
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_blue.png" height="12" width="12"/> <a href="https://null">Blue</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_lavender.png" height="12" width="12"/> <a href="https://null">Lavender</a>
 </details>
+
+2. Enjoy!
+
 </details>
 
 ## Development
