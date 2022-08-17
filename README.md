@@ -41,7 +41,7 @@
 <details>
 <summary>🪴 Frappe</summary>
 
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_rosewater.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-rosewater">Rosewater</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_rosewater.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-rosewater2">Rosewater</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_flamingo.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-flamingo">Flamingo</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_pink.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-pink">Pink</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_mauve.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-mauve">Mauve</a>
