@@ -72,7 +72,7 @@
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_sky.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-sky">Sky</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_sapphire.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-sapphire">Sapphire</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_blue.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-blue">Blue</a>
-- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_lavender.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-lavender">Lavender</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_lavender.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-lavender-git">Lavender</a>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
