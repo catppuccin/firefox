@@ -16,13 +16,92 @@
 </p>
 
 ## Usage
+### 🏠 Basic Install (Recommended)
 
-1. Install [Firefox Color](https://addons.mozilla.org/en-GB/firefox/addon/firefox-color/)
-2. Click on a Link below:
+1. Click on a Link below to install(⚠ WARNING: NOT ALL LINKS ARE WORKING YET ⚠):
 
 <details>
 <summary>🌻 Latte</summary>
 
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_rosewater.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-latte-rosewater-git">Rosewater</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_flamingo.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-latte-flamingo-git">Flamingo</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_pink.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-latte-pink-git">Pink</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_mauve.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-latte-mauve-git">Mauve</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_red.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-latte-red-git">Red</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_maroon.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-latte-maroon-git">Maroon</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_peach.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-latte-peach-git">Peach</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_yellow.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-latte-yellow-git">Yellow</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_green.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-latte-green-git">Green</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_teal.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-latte-teal-git">Teal</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_sky.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-latte-sky-git">Sky</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_sapphire.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-latte-sapphire-git">Sapphire</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_blue.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-latte-blue-git">Blue</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_lavender.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-latte-lavender-git">Lavender</a>
+</details>
+<details>
+<summary>🪴 Frappe</summary>
+
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_rosewater.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-rosewater">Rosewater</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_flamingo.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-flamingo">Flamingo</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_pink.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-pink">Pink</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_mauve.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-mauve">Mauve</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_red.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-red">Red</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_maroon.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-maroon">Maroon</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_peach.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-peach">Peach</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_yellow.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-yellow">Yellow</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_green.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-green">Green</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_teal.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-teal">Teal</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_sky.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-sky">Sky</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_sapphire.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-sapphire">Sapphire</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_blue.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-blue">Blue</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_lavender.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-frappe-lavender">Lavender</a>
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_rosewater.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-rosewater">Rosewater</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_flamingo.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-flamingo">Flamingo</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_pink.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-pink">Pink</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_mauve.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-mauve">Mauve</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_red.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-red">Red</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_maroon.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-maroon">Maroon</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_peach.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-peach">Peach</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_yellow.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-yellow">Yellow</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_green.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-green">Green</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_teal.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-teal">Teal</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_sky.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-sky">Sky</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_sapphire.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-sapphire">Sapphire</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_blue.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-blue">Blue</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_lavender.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-lavender">Lavender</a>
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_rosewater.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-rosewater-git">Rosewater</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_flamingo.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-flamingo-git">Flamingo</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_pink.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-pink-git">Pink</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_mauve.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-mauve-git">Mauve</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_red.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-red-git">Red</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_maroon.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-maroon-git">Maroon</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_peach.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-peach-git">Peach</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_yellow.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-yellow-git">Yellow</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_green.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-green-git">Green</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_teal.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-teal-git">Teal</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_sky.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-sky-git">Sky</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_sapphire.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-sapphire-git">Sapphire</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_blue.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-blue-git">Blue</a>
+- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_lavender.png" height="12" width="12"/> <a href="https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-lavender-git">Lavender</a>
+</details>
+
+2. Enjoy!
+
+### 🔧 Custom Install
+
+1. Install [Firefox Color](https://addons.mozilla.org/en-GB/firefox/addon/firefox-color/)
+2. Click on a Link below:
+<details>
+<summary>🌻 Latte</summary>
+    
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_rosewater.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAJMBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pvlVVvtDqsqN_7GEOBm_ykToWVWr9yRtvQ1As01G9ez1TrrsEuNMK4izbSRi68rxgJjVbkRqe40Q3xUwYxYQvySHSWhXpSjP79AaqrTIJB5QfNXvUwAm13v8ZWtQBUCxq1HUaG8ks9KD7v72vuzBmdlhIB_fEM84S93eJBRUMOJLcuxWX5MmLDMDxm-TYZlOeRQ-oVDty5UY8Rr3MG9_yKq_J7J52aZRiKSu8yV1TOPkbnd43kLOvlSFfli4tbOCADBPNq1lB_1LuecY9kxlHwCmcjwXNwI8ALMcZ6WYHMNiA-62FNsOGTl5lfWwVVB40Kt6SqDk0-qGtwXYkVbcQKzcAzPOjnTgZszPygSSTejb8h7-S1WhWc-SLg7YaDglXHUwXLeuNvC0nLXnEeYmWijJI-Ot3fIxKqQ8-NEeqY4xiqIv_rL9hGuzRrU5HYhXUZ6gfqRZ2aR8VaMz9NNgui0IYtj7FV0VWF0wTqAPTXVNpewb1JTcxyUUGU6QzX_7p63hA">Rosewater</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_flamingo.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAI_BAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pvlVVvtDqsqN_7GEOBm_ykToWVWr9yRtvQ1As01G9ez1TrrsEuNMK4izbSRi68rxgJjVbkRqe40Q3xUwYxYQvySHSWhXpSjP79AaqrTIJB5QfNXtvkMxR7xwUbDQ-zCp828Q5OLsrpj7qZX-7mah4C7QydBACbpavyPv1AB8gkgiNixH3aIRNIKazKzNF3qU9AnUrR1VQoi1TDxL5wQ987p0dOq7mdUay8BX0C26aad4POlmM7vlkJD43VwXIoOnzSfk00vTS_gQBkD6QVspB7knlrHgUXVE7cXpDvGG7t5W9ViQHRTPjR6k7UXxqH6SAvVwtK7tlYG3VwX5JbcYkMq71tZVKH9g9tgIV0O1SwvBlpj2G24NDRk0JSSjueB67uDMjnm7shgdmCbH29oKChnz4K7xDmdMObCKZ8azM9AM6mL5iIN_SkSY-te9xY7kqUcNz_Xe32g5UtSXllZFqpEZwX4_DA_uQkAfA7pstxSqfFQk765YNg1oRwt2j_PB_9P3EMA">Flamingo</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/latte_pink.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAJHBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pvlVVvtDqsqN_7GEOBm_ykToWVWr9yRtvQ1As01G9ez1TrrsEuNMK4izbSRi68rxgJjVbkRqe40Q3xUwYxYQvySHSWhXpSjP79AaqrTIJB5QfNXtvkPfvaaUHlA_B5WTMCyeVT-gsvAm8REww50C1UKW4ROL6VInxNq4MG868kLq2nGzoQncp_9e9p6iYB0m5ZaLyS-PksY7DAJWI2T6AHMgpnrEqCwYRoqYprsalcbi_bSqtRsZCJP9r4580FqzVkZs4z82Q0bmGqaiXB6B8lvDznaxh1OM6ySvZ_7Aw2qgIqrdRewryz3uQ-ZRDE82_VNI9Nf7aZ_4VTwCkKV-XTCyKWAo2wawTgixiWiHGOO0LAt_4GKfacIUJwtQsHS0z72_LEGMNMH3HvNxvAKIrAxu-a03optJwNyroia6mLlbjzd2lB-spuyQhlKP0Vj--vtsbGLzYODcU9tTq2rYjlDS8Y7aus6AON0aSh06g7Tyz7rJZ48JzaLd_30TQT_-BGlGA">Pink</a>
@@ -40,7 +119,7 @@
 </details>
 <details>
 <summary>🪴 Frappe</summary>
-
+    
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_rosewater.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAJMBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pJSalLnSYHdbSBh-1CX0CGiPjBp_8RFBgLraofe5dNsJeJRsvnFfAV4-zfXO-vnAOmI7fBPSRgNM7CF7IhOlzarUyjNw7WCPDHbDP4RH0j7P8o1xTdgh9eM7_-CejToSta5v1tDINiaGLI3qNw3r1oAsRaLifFsk-S9WV8GXVWOei-EVPJzK5RFx1emNWy7QPKjdWXzv5zda6emtsXFcUXtJKPzc3URpinvHtntaZi4FESmPt3miysY9zB2YmBh2SaPAtdZPfkU6GK_8HL7o3RO6x9nSeapeZLpxm9Y9gmpqWl8hImQ8XMdomjioZ_mga8upLniN7Uo-EaON1zLDbsCWtb4q_CqV-wtj8lnQ_DdAzKmnrTIgvCiXRA9lT1GmffmYI4KGAC8bQ3YcsFw0_70daARiRPbwLu9dbPXx_UAfbFZnNxvWUVm4NJMDbbLQjAd46ntBcft-DkZK3z3_MB-2YL4uaYitgpb_u7LiBk2QL6UVlHgJb6dQNe3caNRgymMo8HcgTbhHZz-JVgK">Rosewater</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_flamingo.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAJLBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pJSalLnSYHdbSBh-1CX0CGiPjBp_8RFBgLraofe5dNsJeJRsvnFfAV4-zfXO-vnAOmI7fBPSRgNM7CF7IhOlzarUyjNw7WCPDHbDP4RH0j7P8o1xTdgh9eM7_cydMwvMwC2lhXcHWNKD1TXZLKno9V7K6G_qFBY1ZQWmN9jZf0puS_Z528Sr8Gzd0ylMI_KBdi_7Eu_mdkvn2Z5JaXC9Ih53smn3PLvrgWq_ZZE7711JppsK7LhGdis1ITfABN025sfHKF46YGlFBk8iqBDwZZV3KIy8de8b8QZGPt6yTxkn6FBZYztCLaxSsthtEJzuHvwPtqbN4STVFeqC6uJE8xBez49oeef3CVSvp_2538EUmN_IGoM_Qqih_D7dSf1gGoGWpWDkW-xDOB2Va44wji6tKWBtCuWhOMg1Ve_uL0p0OhS5v1o3a9LRhNKXLEvwACesr9pzZLtB8xE0OnepC62hKtIpX_qEqgBy36ZcemLcLVLIjll_MGAqGU06JVIET6tVsA0X70QxP_rpknj">Flamingo</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/frappe_pink.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAJHBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pJSalLnSYHdbSBh-1CX0CGiPjBp_8RFBgLraofe5dNsJeJRsvnFfAV4-zfXO-vnAOmI7fBPSRgNM7CF7IhOlzarUyjNw7WCPDHbDP4RH0j7P8o1xTdgh9eM8APaEWg_bqfCXA8aQakFYgNaUkcg42DDL_sKSdyvfQtoiaVxmaGBmfqgVQcEJtkf9aYkC0bDcoVaQGKjzfjF95bsk18jKEMq_G17sTiMuIKma4l2lMXh_UKmXz-BwKJZKIuZaGOOfEQPrnUPvpSPRJMySnqFKFNbY8IHD1Nz7Q6gOIhp98zcOKkMJTf4QXUKht52Ywt32IVV7aUp0_P80jZN8n6IaHej_pWYn5ijVR0f2mF-L9uWesCURn_N93S2exmsg5aJE6mUqjwslbDXsjB0fkgUDsVS9F3w9DtEHsI2Ao_YgKGEl8kGaVceBD8dw4qjxkn7GKrwBGBquXTzMIxzWQuSOZaxokB0etFrk_u0S6UEEOiXY6qfQdC1__2av87GSOHo7GOxBTgfK__wMKMt">Pink</a>
@@ -58,7 +137,7 @@
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-
+    
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_rosewater.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAJPBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pG5gi-DrbS7fiEFLUzDsWXWyUHMSkHZ2PpRK_LvZGTF44fp7VjbASbxkoZAmYAwEJIoRnjw8xrOTGV_TjmyI1jBzmpM9P7ysk1XcU5Vim_Fm-lEdd2D1sQPsckLiV5GG_5GXcM0bFW4pOK3BmihFRqYwA_Z6cLYXLzw75aJ6xgkScSYcSXYrSR8TNyPLfnccXHigOEfKDyjNXed5-UScYLsLnsF0aVbGLVf_1AHeafPm-NPwD9-9OTKjLedktSkQ97kof3kqcZMHLuphAqhXVEnPquQgWYOfHd6Dbz1reUYnHY-n89uQ20_PoppJaf2erKRzF-GXuQQ1Pirs8hSPs6D5qXGGyh8IC5y_lQ-xBNHr4sfZ1GPU2gFl5qPi02kI5WWznfDllYKP61AaCI76RHomPxwOzt9hQ4W7g_ZqgkoI-_uuhD-ipeXvJTyEA-ssXDHDLv4wQN87Wcqf9yw3hfDIxHUTfgZVnEri-k2D8EomMdLJUaWpBwvNUXq2g8I4TB-nd9RKUixKXb3_9GSFxw">Rosewater</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_flamingo.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAJOBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pG5gi-DrbS7fiEFLUzDsWXWyUHMSkHZ2PpRK_LvZGTF44fp7VjbASbxkoZAmYAwEJIoRnjw8xrOTGV_TjmyI1jBzmpM9P7ysk1XcU5Vim_Fm-lEdd2D1sQPscDrQyHdJlLFlm-h5kQjykhcCsi3uZVCnnB6xrE2Dl9k16UMTYJPCbOBu7vam5OsVPGSFwBrDiRZnaSFpSPj2gPLBm7YkI_Ra1YPri8FWdeNlkzriSIz1978OixtMEjQnyaw3Bul0z4lSWyu9UYsBDInCRNR1C-QTu1O2qAW6jiZquzR4Dqv-O0WrYbv7Jy4OAbOaj5yUBCH_c1gHlKaxEhcQDwLT1bpiO0BPjvkstLUCroKpEsYsUMWxI29f80l_2hbSoDxH5aTIPUTBcYanIsxhrhQog4eosGRrBgBdQvpErv7OZII6T14CZ1Diu-9SNdJ9-M4fQZC6wadKNHoTzhclUvSIfJgJ8ippGeMoo63K1ZeVq5T8BSwRNq5KkByVaRzbGgMgRZOdAUMOvaftNj_9ONhvw">Flamingo</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/macchiato_pink.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAJKBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pG5gi-DrbS7fiEFLUzDsWXWyUHMSkHZ2PpRK_LvZGTF44fp7VjbASbxkoZAmYAwEJIoRnjw8xrOTGV_TjmyI1jBzmpM9P7ysk1XcU5Vim_Fm-lEdd2D1sQPsctK9oZ3_TY8jw5jr1ncaSjccdXz9DRQ_ZLcLJCNwzlRGHEONXOWo1xDBE8GGmHTFdfVSc0G-0l_ct2U2ZBQTMwOgJOFMuxOhCB64EsH33P8h3hON7sNbcXRIJrZ5jdEmp4OgQ-6_tVKPzhExbtaz3628jpljhLU5M_vfVf3XdOKK7_K17VJ8JPYR7bnN37NLZXbk8IYxNWfxIX5hTDhTxJIL-gtVVihVXNhMNIWqp3OqKqI1VdbRSFujJHYTWogYpJkbOv-ZS6gtvzhs7L5z4nZNHD9Z4ERnhT6hRBlV3IK1okYWKxY9M-Yzd0mP0XPh30fLx_R49-ZzE2NkgI8vS0Hl4aWNEAlKPrbFgC0CL2zL4b-sac98DJ47eLxRTxQRyRMRxFtNLVy0-HzNEA6_G2WdQ">Pink</a>
@@ -76,7 +155,7 @@
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-
+    
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_rosewater.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAJLBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhp-xlD-Zf6HJJgDbqifsiIq_a2RRGaUncUnzeg6lTPcgQNfz1hBf6lIha-TMcQ0OC_Y8oiW-4UoxanynabXGejX_f8IhSPzNMp0XTpOMTWOf7grI812P4DPaDkme2vDIexpMC9nf6NqwDHbXzWVwhxmFJMR15TxS9TD5aCJsHbJYWXfs8eg9sdv_4dhuZzx3LCxdLxGkLgFzqvfsKjZpSdOqTp1VvWnjQfIAVOYqmR-06uE2wH2jNQ4m2r1o8qzp90y5D1AtpUYkzJ0QINi_AKHfYRd-HDA5CsNN1Q9UqwhyxttYB8irjEEZLHh14mDQ0I5FZD0_ruZ55eZUJvAy-uQQKyJ9gcZqmr6aXc0owzJeVR1WetPAEOOUQeVMApmr-jbsQDC2V8kNPDqfUTwPGD_4SIFIg">Rosewater</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_flamingo.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAJKBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhp8u7kT4nh31-_5sD_P8FhlfX9Sdj_brd9hzw5NA_jx4peTGmoiUcikCHxa8Sm8bylvXElo3HHzylyv8f7R7gwkSEe8Mkq_ERB00vhRYSdLVEI7OR2j9y8UtYJhXmmHxXtQ2a2q0wDt9h-Dv7L5NTOL6rXow07mQKUpPk1YKzw2kXUMMLaQuUuQ3XNTYNjgqY304XtMjLlXpKm9u86Yx8NE_PJRlU_A5RaGVTvRPiWK1lJ3nR9txvjVyXMlALoqPUstH-teiJlS-K8i_XNtNW_lSXRhU5WK5zV2-KWUo4fXo_6AY5USlSfnZLBPM1pgj7_6uOJTwcm_iyhFJekRTVz5lwvP1m7oLO8Q2D22qy4OM_J_nPAoDQJcWhYfmfPuVL7DfsMBHaxQr2rWF-DtNv_1Gzwn">Flamingo</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_pink.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAJGBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhp-xkeer3MCWdRzOxwUd1idIdYygjYcDC9HOohbgoQY1wJYK0MG9FFPmpCOo5rViKWXT2rMRBQb2guhvABroGB6LqX-HZ9JR9FU6ZnHTCdQPn261avChXEifYgCOyCKdS9ZoXxv_HHhkTIaEsdaPO9_OsUjQOnRSNMcbRuY2Ia7JuKLLt8CubCPw_p7D4e0jRzDe1bwWup__YRTHNNBIJ_Yy_cjzlVebPvNbUZ1yI0Jz_Y0mUZu78Ff9N_SHBmReRoo21ODqzgOCCxzEQApqzh-4d5dN87PTsE-w8SEkzT71MkxpPs_xLwxXIBSjRBHNzmLii-UraUjNnyeW4cdEy5AfK9s65o9rqgqEUwAbiUN-QGQS1gnm1SiLFzFqKRTrM8TLOni3DpYc8WsK__5LAr6">Pink</a>
@@ -92,7 +171,6 @@
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_blue.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAJGBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehho7r-AtSBPnvx4uvv7vRnzG2zBiFpesm1SAl1KsPscTY8iQYgDnBUvUwxRg5oKKrqaQ_z3v5Hws-8hk4Kc3t_NXn8IoY4ZYVdc86z2QRba2CmsdOmEA-8eHxrfsyZHFWrEEdKZyHYvxjqukUFLs50Fy6pCfDvrjybo7A4JHAneZZebbLuW4Pma6yB1NfcI4P_st5czXn1TKpCkS6emeb0uTBI81r58_rxE5-ZvpKx_wl_9jWRjrJrxtMXrR2NCLmqj_2U8YrgJI-ntN_OFvdhGXquDVwzXW63ZF3TQ9Yd0P9tGTjQonU_geMZpVvalN1Vn2MFfaXqQ-qWJ4jHHQ1kseHUO1TewpyvxsRwgASymmTuyhrwo1v-Hkj_8kf6MDmMJDbY70fzpN5sAeHf_ywuH6">Blue</a>
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_lavender.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAJKBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhpWbjL_1RPuSDS6JMrP5SMm3V5s8DPdjrylB8odQkBKx3hwS8DfSgUd_K1gnYDiqF6FLqjZ1i5o2Ag7ndcuIMtTOff0Mv_AUAr9gmCgTwJLuHS5akRaMkSVVO8YgQjswELYw-q6z3M9DY23nuubC_GQIUqlw0_9487jRqUf-t65gGYFkYF-EVxDzDvkiPtc2DsCr9tA7T80kjhhBQbYyVVfUoAB3vp7lXFBBu23r5xMiMVRxLQ2tPxWgGuP7HrKARPpsj7DUbWXrSEUBH5Gl9FVO-bhfqoemHRF3TQ9Yd0P9tGTjQonU_geMZpVvalN1Vn2MFfaXqQ-qWJ4jHHQ1kseHUO1TewpyvxsRwgASymmTuyhrwo1wJpLkKbqT5MZpHJdhEsog-DqGE2tIVSdG_9iQbYA">Lavender</a>
 </details>
-
 3. Apply the theme with Firefox Color
 
 ## Development
