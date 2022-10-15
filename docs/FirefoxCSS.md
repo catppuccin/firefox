@@ -1,18 +1,6 @@
-<h3 align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://firefoxcss-store.github.io/">FirefoxCSS</a>
-</h3>
-
-
 <p align="center">
-    <a href="https://github.com/catppuccin/firefox/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/firefox?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/firefox/issues"><img src="https://img.shields.io/github/issues/catppuccin/firefox?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/firefox/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/firefox?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-      <a href="FirefoxCSS.md"><img src="https://img.shields.io/badge/FirefoxCSS-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
+  <h2 align="center">🦊 FirefoxCSS Themes made by the Community!</h2>
 </p>
-
-## Install
 
 **Follow instructions on each theme's repositories**
 
