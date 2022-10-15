@@ -14,7 +14,7 @@ Thank you for taking a look at how to contribute and submit your theme.
 3. Create the markdown for `FirefoxCSS.md`. Scroll to below.
 
 ## Markdown
-The theme above will end with `---` and you can start by adding the image. **A square image is highly recommended.**
+The theme above will end with `---` and you can start by adding the image. **A square image is highly recommended, the width MUST be fixed at 350px**
 
 ```md
 <img align="left" width="350px" src="">
