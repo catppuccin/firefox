@@ -8,10 +8,30 @@ Thank you for taking a look at how to contribute and submit your theme.
 
 
 ## Instructions
+1. Include instructions on how to use firefox css and the `chrome` folder. What you should include has been listed below.
 
-1. Create a repo with the required files, such as `userChrome.css` and links to whatever extensions are needed.
-2. Add suitable instrcutions.
-3. Create the markdown for `FirefoxCSS.md`. Scroll to below.
+> ### General instructions- enabling userChrome
+> 1. Enable userChrome customisation in `about:config`
+>     Navigate to `about:config` in the address bar and accept the risks.
+> 
+> 2. Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and toggle it to `true` (by double clicking on it).
+> 3. Locate and open your profile folder
+> Either of the following two methods work:
+> 
+>     Using the Firefox troubleshooting page
+>         Click on the ☰ icon ➝ `Help` ➝ `More Troubleshooting Information` or navigate to `about:support` in your address bar
+>         Under Application Basics, click on the `about:profiles`. Open the folder.
+> 
+> 4. Create the folder and its files
+> 
+>     Inside your profile folder, create a new folder named `chrome` (all lower case)
+> 
+>     Inside the chrome folder, create two new files, `userChrome.css` and `userContent.css` (case sensitive)
+>         Note: In Windows, you must disable the "Hide extensions for known file types" setting in Explorer. Once that's done, simply create a new text file (Right click ➝ New ➝ Text Document), then make sure to replace the .txt with .css
+
+2. Create a repo with the required files, such as `userChrome.css` and links to whatever extensions are needed.
+3. Add suitable instructions for extensions and the like.
+4. Create the markdown for `FirefoxCSS.md`. Scroll down.
 
 ## Markdown
 The theme above will end with `---` and you can start by adding the image. **A square image is highly recommended, the width MUST be fixed at 350px**
