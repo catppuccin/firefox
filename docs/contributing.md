@@ -4,8 +4,7 @@ Thank you for taking a look at how to contribute and submit your theme.
 
 ## Guidelines
 
-1. Although clean, readable code is recommended, it is not required for the theme to be added to this repo as it is not officially supported. However that will greatly increase the chanced of using their theme.
-
+Clean and readable code is appreciated but not required to be added to the repo.
 
 ## Instructions
 1. Include instructions on how to use firefox css and the `chrome` folder. What you should include has been listed below.
@@ -53,9 +52,9 @@ A ... of ... in Firefox. Aims for ... Customizable ...
 Inspired by ... by ...
 ```
 
-**Most importanty, add an apporitate number of line breaks(`br`) to the end of your section** Note that the text should not wrap under the image when zoomed out.
+**Most importanty, add this line break to the end of your section** Note that the text should not wrap under the image when zoomed out.
 ```md
-<br><br><br><br><br><br><br><br>
+<br clear="left">
 ```
 Lastly, add a divider to signify the end of the section
 ```md
@@ -75,7 +74,7 @@ A clean implementation of vertical tabs in Firefox. Inspired by [Flying Fox](htt
 
 
 Start page can be found at my [dotfiles repo](https://github.com/tnixc).
-<br><br><br><br><br><br><br><br>
+<br clear="left">
 
 ---
 
@@ -88,7 +87,7 @@ A clean implementation of vertical tabs in Firefox. Inspired by [Flying Fox](htt
 
 
 Start page can be found at my [dotfiles repo](https://github.com/tnixc).
-<br><br><br><br><br><br><br><br>
+<br clear="left">
 
 ---
 ```
