@@ -7,7 +7,7 @@ Thank you for taking a look at how to contribute and submit your theme.
 1. Although clean, readable code is recommended, it is not required for the theme to be added to this repo as it is not officially supported. However that will greatly increase the chanced of using their theme.
 
 
-## Instrcutions
+## Instructions
 
 1. Create a repo with the required files, such as `userChrome.css` and links to whatever extensions are needed.
 2. Add suitable instrcutions.
