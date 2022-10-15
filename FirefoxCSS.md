@@ -76,7 +76,7 @@ Start page can be found at my [dotfiles repo](https://github.com/tnixc).
 ---
 
 ## Contributing and submitting your theme
-Head over to (contributing.md)[/contributing.md/]
+Head over to [contributing.md](https://github.com/Tnixc/firefox-1/blob/dev/contributing.md)
 
 ## 💝 Thanks to
 
