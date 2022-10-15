@@ -35,14 +35,7 @@ Inspired by ... by ...
 
 **Most importanty, add an apporitate number of line breaks(`br`) to the end of your section** Note that the text should not wrap under the image when zoomed out.
 ```md
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br><br><br>
 ```
 Lastly, add a divider to signify the end of the section
 ```md
