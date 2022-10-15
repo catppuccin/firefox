@@ -9,7 +9,6 @@
     <a href="https://github.com/catppuccin/firefox/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/firefox?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
     <a href="https://github.com/catppuccin/firefox/issues"><img src="https://img.shields.io/github/issues/catppuccin/firefox?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
     <a href="https://github.com/catppuccin/firefox/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/firefox?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-      <a href="docs/FirefoxCSS.md"><img src="https://img.shields.io/badge/FirefoxCSS-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -173,6 +172,10 @@
 - <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_lavender.png" height="12" width="12"/> <a href="https://color.firefox.com/?theme=XQAAAAJKBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhpWbjL_1RPuSDS6JMrP5SMm3V5s8DPdjrylB8odQkBKx3hwS8DfSgUd_K1gnYDiqF6FLqjZ1i5o2Ag7ndcuIMtTOff0Mv_AUAr9gmCgTwJLuHS5akRaMkSVVO8YgQjswELYw-q6z3M9DY23nuubC_GQIUqlw0_9487jRqUf-t65gGYFkYF-EVxDzDvkiPtc2DsCr9tA7T80kjhhBQbYyVVfUoAB3vp7lXFBBu23r5xMiMVRxLQ2tPxWgGuP7HrKARPpsj7DUbWXrSEUBH5Gl9FVO-bhfqoemHRF3TQ9Yd0P9tGTjQonU_geMZpVvalN1Vn2MFfaXqQ-qWJ4jHHQ1kseHUO1TewpyvxsRwgASymmTuyhrwo1wJpLkKbqT5MZpHJdhEsog-DqGE2tIVSdG_9iQbYA">Lavender</a>
 </details>
 3. Apply the theme with Firefox Color
+
+### 🦊 Community-Made CSS/UserChrome Themes
+
+> **Note** Also check out these awesome [userChrome](docs/FirefoxCSS.md) Projects made by our Community.
 
 ## Development
 
