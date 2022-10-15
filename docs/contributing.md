@@ -42,7 +42,7 @@ The theme above will end with `---` and you can start by adding the image. **A s
 After that, add a title with the format **Name by Author**, with links included. Like so:
 
 ```md
-# [Name](https://github.com/...) by [Tnixc](https://github.com/...)
+### [Name](https://github.com/...) by [Tnixc](https://github.com/...)
 ```
 Note that both the links should be to the repo, not the author themselves.
 
@@ -68,7 +68,7 @@ Lastly, add a divider to signify the end of the section
 
 <img align="left" width="350px" src="https://cdn.discordapp.com/attachments/1030274959886532618/1030466755216277594/unknown.png">
 
-# [Vertical tabs](https://github.com/tnixc/firefox) by [Tnixc](https://github.com/tnixc/firefox)
+### [Vertical tabs](https://github.com/tnixc/firefox) by [Tnixc](https://github.com/tnixc/firefox)
 
 A clean implementation of vertical tabs in Firefox. Inspired by [Flying Fox](https://github.com/akshat46/FlyingFox) by [akshat46](https://github.com/akshat46).
 
@@ -81,7 +81,7 @@ Start page can be found at my [dotfiles repo](https://github.com/tnixc).
 ```md
 <img align="left" width="350px" src="https://cdn.discordapp.com/attachments/1030274959886532618/1030466755216277594/unknown.png">
 
-# [Vertical tabs](https://github.com/tnixc/firefox) by [Tnixc](https://github.com/tnixc/firefox)
+### [Vertical tabs](https://github.com/tnixc/firefox) by [Tnixc](https://github.com/tnixc/firefox)
 
 A clean implementation of vertical tabs in Firefox. Inspired by [Flying Fox](https://github.com/akshat46/FlyingFox) by [akshat46](https://github.com/akshat46).
 
