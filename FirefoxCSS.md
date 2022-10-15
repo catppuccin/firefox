@@ -1,29 +1,31 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://www.mozilla.org/en-US/firefox/">Firefox</a>
-	<img src="https://raw.githubusercontent.com/catppuccin/firefox/main/assets/preview.png" height="30" width="0px"/>
+	Catppuccin for <a href="https://firefoxcss-store.github.io/">FirefoxCSS</a>
 </h3>
 
-<p align="center">
-    <a href="https://github.com/catppuccin/firefox/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/firefox?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/firefox/issues"><img src="https://img.shields.io/github/issues/catppuccin/firefox?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/firefox/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/firefox?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-</p>
+## Themes
+<img align="left" width="350px" src="https://raw.githubusercontent.com/andreasgrafen/cascade/main/assets/preview.webp">
 
-<p align="center">
-  <img src="assets/preview.png"/>
-</p>
+# [Cascade](https://github.com/andreasgrafen/cascade) by [andreasgrafen](https://github.com/andreasgrafen/cascade)
 
-## Usage
-### 🏠 Basic Install (Recommended)
+**A minimalistic and keyboard centered userChrome**
+
+Cascade aims to remove a lot of the subjective clutter default Firefox comes with. The theme is also highly inspired by the stylistic choices of [SimpleFox](https://github.com/migueravila/SimpleFox) 🦊 by [Miguel Ávila](https://github.com/migueravila).
+
+---
+
+<img align="left" width="350px" src="https://cdn.discordapp.com/attachments/1030274959886532618/1030466755216277594/unknown.png">
+
+# Theme by Name
+
+Short Description ...
+
+---
 
 ## 💝 Thanks to
 
-- [Lexi](https://github.com/ShyyLexi)
 - [Isabelinc](https://github.com/Isabelincorp)
-- [winston](https://github.com/nekowinston)
-
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
