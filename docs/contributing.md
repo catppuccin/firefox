@@ -71,7 +71,7 @@ Lastly, add a divider to signify the end of the section
 
 ### [PlaceKitten](https://placekitten.com/) by [Mark James](https://mark.james.name/)
 
-A clean implementation of cuteness in Firefox. Inspired by [Flying Fox](https://github.com/akshat46/FlyingFox) by [akshat46](https://github.com/akshat46).
+A clean implementation of cuteness in Firefox. Inspired by [GNU](https://gnu.org) by [Richard Stallman](https://stallman.org/).
 
 
 Start page can be found at [this repo](https://github.com/catppuccin/bento).
@@ -84,7 +84,7 @@ Start page can be found at [this repo](https://github.com/catppuccin/bento).
 
 ### [PlaceKitten](https://placekitten.com/) by [Mark James](https://mark.james.name/)
 
-A clean implementation of cuteness in Firefox. Inspired by [Flying Fox](https://github.com/akshat46/FlyingFox) by [akshat46](https://github.com/akshat46).
+A clean implementation of cuteness in Firefox. Inspired by [GNU](https://gnu.org) by [Richard Stallman](https://stallman.org/).
 
 
 Start page can be found at [this repo](https://github.com/catppuccin/bento).
