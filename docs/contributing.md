@@ -67,27 +67,25 @@ Lastly, add a divider to signify the end of the section
 
 ## Example of markdown
 
-<img align="left" width="350px" src="https://cdn.discordapp.com/attachments/1030274959886532618/1030466755216277594/unknown.png">
+<img align="left" width="350px" src="https://placekitten.com/408/287">
 
-### [Vertical tabs](https://github.com/tnixc/firefox) by [Tnixc](https://github.com/tnixc/firefox)
+### [PlaceKitten](https://placekitten.com/) by [Mark James](https://mark.james.name/)
 
-A clean implementation of vertical tabs in Firefox. Inspired by [Flying Fox](https://github.com/akshat46/FlyingFox) by [akshat46](https://github.com/akshat46).
+A clean implementation of cuteness in Firefox. Inspired by [Flying Fox](https://github.com/akshat46/FlyingFox) by [akshat46](https://github.com/akshat46).
 
 
-Start page can be found at my [dotfiles repo](https://github.com/tnixc).
+Start page can be found at [this repo](https://github.com/catppuccin/bento).
 <br clear="left">
 
 ---
 
 ```md
-<img align="left" width="350px" src="https://cdn.discordapp.com/attachments/1030274959886532618/1030466755216277594/unknown.png">
+### [PlaceKitten](https://placekitten.com/) by [Mark James](https://mark.james.name/)
 
-### [Vertical tabs](https://github.com/tnixc/firefox) by [Tnixc](https://github.com/tnixc/firefox)
-
-A clean implementation of vertical tabs in Firefox. Inspired by [Flying Fox](https://github.com/akshat46/FlyingFox) by [akshat46](https://github.com/akshat46).
+A clean implementation of cuteness in Firefox. Inspired by [Flying Fox](https://github.com/akshat46/FlyingFox) by [akshat46](https://github.com/akshat46).
 
 
-Start page can be found at my [dotfiles repo](https://github.com/tnixc).
+Start page can be found at [this repo](https://github.com/catppuccin/bento).
 <br clear="left">
 
 ---
