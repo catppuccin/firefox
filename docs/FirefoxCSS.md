@@ -2,9 +2,9 @@
   <h2 align="center">🦊 FirefoxCSS Themes made by the Community!</h2>
 </p>
 
-**Follow instructions on each theme's repositories**
+For installation and customisation guidelines please refer to each theme's repository.
 
-**!! If there is an issue with a theme create an issue on their repo NOT here !!**
+> **Note** If there is an issue with a theme create an issue on their repo **not** here.
 
 ## Themes
 
