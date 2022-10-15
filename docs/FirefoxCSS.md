@@ -1,10 +1,10 @@
-<p align="center">
-  <h2 align="center">🦊 FirefoxCSS Themes made by the Community!</h2>
-</p>
+&nbsp;
+# 🦊 FirefoxCSS Themes made by the Community!
 
 For installation and customisation guidelines please refer to each theme's repository.
-
 > **Note** If there is an issue with a theme create an issue on their repo **not** here.
+
+&nbsp;
 
 ## Themes
 
@@ -31,13 +31,18 @@ Start page can be found at my [dotfiles repo](https://github.com/tnixc).
 
 ---
 
+&nbsp;
+
 ## Contributing and submitting your theme
 Head over to <a href="contributing.md">contributing.md</a>
+
+&nbsp;
 
 ## 💝 Thanks to
 
 - [Isabelinc](https://github.com/Isabelincorp)
 - [Tnixc](https://github.com/Tnixc)
+
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
