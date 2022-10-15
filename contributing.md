@@ -68,14 +68,7 @@ A clean implementation of vertical tabs in Firefox. Inspired by [Flying Fox](htt
 
 
 Start page can be found at my [dotfiles repo](https://github.com/tnixc).
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br><br><br>
 
 ---
 ```
