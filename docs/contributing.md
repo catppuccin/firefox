@@ -5,7 +5,7 @@ Thank you for taking a look at how to contribute and submit your theme.
 ## Guidelines
 
 - Clean and readable code is appreciated but not required to be added to the repo.
-- Latte/Frappe/Macchiato/Mocha Screenshots (Catwalk @ Toolbox Repo) and versions **required**
+- Latte/Frappe/Macchiato/Mocha Screenshot (Catwalk @ Toolbox Repo) and versions **required**
 
 ## Instructions
 1. Include instructions on how to use firefox css and the `chrome` folder. What you should include has been listed below.
