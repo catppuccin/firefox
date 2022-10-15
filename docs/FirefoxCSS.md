@@ -15,7 +15,7 @@ For installation and customisation guidelines please refer to each theme's repos
 **A minimalistic and keyboard centered userChrome**
 
 Cascade aims to remove a lot of the subjective clutter default Firefox comes with. The theme is also highly inspired by the stylistic choices of [SimpleFox](https://github.com/migueravila/SimpleFox) 🦊 by [Miguel Ávila](https://github.com/migueravila).
-<br><br>
+<br clear="left">
 
 ---
 
@@ -27,14 +27,7 @@ A clean implementation of vertical tabs in Firefox. Inspired by [Flying Fox](htt
 
 
 Start page can be found at my [dotfiles repo](https://github.com/tnixc).
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br clear="left">
 
 ---
 
