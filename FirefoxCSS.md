@@ -12,34 +12,9 @@
       <a href="FirefoxCSS.md"><img src="https://img.shields.io/badge/FirefoxCSS-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
-<p align="center">
-  <img src="assets/preview.png"/>
-</p>
-
 ## Install
 
-### General instructions- enabling userChrome
-1. Enable userChrome customisation in `about:config`
-    Navigate to `about:config` in the address bar and accept the risks.
-
-2. Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and toggle it to `true` (by double clicking on it).
-3. Locate and open your profile folder
-Either of the following two methods work:
-
-    Using the Firefox troubleshooting page
-        Click on the ☰ icon ➝ `Help` ➝ `More Troubleshooting Information` or navigate to `about:support` in your address bar
-        Under Application Basics, click on the `about:profiles`. Open the folder.
-
-4. Create the folder and its files
-
-    Inside your profile folder, create a new folder named `chrome` (all lower case)
-
-    Inside the chrome folder, create two new files, `userChrome.css` and `userContent.css` (case sensitive)
-        Note: In Windows, you must disable the "Hide extensions for known file types" setting in Explorer. Once that's done, simply create a new text file (Right click ➝ New ➝ Text Document), then make sure to replace the .txt with .css
-
-5. Head over to the linked repositories and copy the contents of their `userChrome.css` to your own.
-
-6. **Some themes may require extensions and other files so continue by following instructions on their repository.**
+**Follow instructions on each theme's repositories**
 
 **!! If there is an issue with a theme create an issue on their repo NOT here !!**
 
