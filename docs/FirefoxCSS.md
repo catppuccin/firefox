@@ -10,7 +10,7 @@ For installation and customisation guidelines please refer to each theme's repos
 
 <img align="left" width="350px" src="https://raw.githubusercontent.com/andreasgrafen/cascade/main/assets/cascade-ctp.webp">
 
-# [Cascade](https://github.com/andreasgrafen/cascade) by [andreasgrafen](https://github.com/andreasgrafen/cascade)
+### [Cascade](https://github.com/andreasgrafen/cascade) by [andreasgrafen](https://github.com/andreasgrafen/cascade)
 
 **A minimalistic and keyboard centered userChrome**
 
@@ -21,7 +21,7 @@ Cascade aims to remove a lot of the subjective clutter default Firefox comes wit
 
 <img align="left" width="350px" src="https://cdn.discordapp.com/attachments/1030274959886532618/1030466755216277594/unknown.png">
 
-# [Vertical tabs (WIP)](https://github.com/tnixc/firefox) by [Tnixc](https://github.com/tnixc/firefox)
+### [Vertical tabs (WIP)](https://github.com/tnixc/firefox) by [Tnixc](https://github.com/tnixc/firefox)
 
 A clean implementation of vertical tabs in Firefox. Inspired by [Flying Fox](https://github.com/akshat46/FlyingFox) by [akshat46](https://github.com/akshat46).
 
