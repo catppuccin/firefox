@@ -80,6 +80,8 @@ Start page can be found at [this repo](https://github.com/catppuccin/bento).
 ---
 
 ```md
+<img align="left" width="350px" src="https://placekitten.com/408/287">
+
 ### [PlaceKitten](https://placekitten.com/) by [Mark James](https://mark.james.name/)
 
 A clean implementation of cuteness in Firefox. Inspired by [Flying Fox](https://github.com/akshat46/FlyingFox) by [akshat46](https://github.com/akshat46).
