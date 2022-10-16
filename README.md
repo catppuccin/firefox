@@ -173,6 +173,10 @@
 </details>
 3. Apply the theme with Firefox Color
 
+### 🦊 Community-Made CSS/UserChrome Themes
+
+> **Note** Also check out these awesome [userChrome](docs/FirefoxCSS.md) Projects made by our Community.
+
 ## Development
 
 ##### Packaging (Firefox Store):
