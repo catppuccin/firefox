@@ -75,7 +75,7 @@ const capitalize = (s) => {
                     popup_highlight_text: lib["text"],
                     popup_highlight: lib["overlay0"],
                     sidebar_border: lib["accent"],
-                    sidebar_highlight_text: lib["text"],
+                    sidebar_highlight_text: lib["crust"],
                     sidebar_highlight: lib["accent"],
                     sidebar_text: lib["text"],
                     sidebar: lib["base"],

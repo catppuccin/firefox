@@ -26,7 +26,7 @@ ff_theme:
       popup_highlight_text: *text
       popup_highlight: *overlay0
       sidebar_border: *accent
-      sidebar_highlight_text: *text
+      sidebar_highlight_text: *crust
       sidebar_highlight: *accent
       sidebar_text: *text
       sidebar: *base
